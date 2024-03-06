@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-#define LED1 D2  // Pemilihan Pin D0
-#define LED2 D6  // Pemilihan Pin D1
+#define LED1 D0  // Pemilihan Pin D0
+#define LED2 D2  // Pemilihan Pin D2
 
 const char* ssid = "son";                // Nama SSID AP/Hotspot
 const char* password = "GratisBanget@";  // Password Wifi1
