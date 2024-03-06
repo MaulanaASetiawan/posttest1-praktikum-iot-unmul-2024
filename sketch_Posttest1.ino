@@ -16,7 +16,6 @@ void setup() {  //Pengaturan Pin
 
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
-  pinMode(LED_BUILTIN, OUTPUT);
 
   // Connect ke WiFi
   Serial.println();
