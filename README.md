@@ -31,5 +31,13 @@
   <li>LED</li>
 </ul>
 
+<h3>Board Schematic</h3>
+1. Design Schematic
+![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/Our - Skematik.jpg)
+
+2. Our Schematic
+![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/Skematik.png)
+
+
 <h2>Link Video</h2>
 <a href="#"></a>
