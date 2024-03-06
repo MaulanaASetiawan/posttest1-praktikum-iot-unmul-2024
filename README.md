@@ -34,10 +34,10 @@
 <h3>Board Schematic</h3>
 
 1. Design Schematic
-![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/OurSkematik.jpg)
+![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/Skematik.png)
 
 3. Our Schematic
-![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/Skematik.png)
+![alt text](https://github.com/MaulanaASetiawan/posttest1-praktikum-iot-unmul-2024/blob/main/OurSkematik.jpg)
 
 
 <h2>Link Video</h2>
